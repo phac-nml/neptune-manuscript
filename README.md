@@ -1,3 +1,10 @@
+## Contents ##
+--------------
+
+This repository contains additional information and files associated with the Neptune manuscript. It contains the [data](./data/) used and the [signatures](./signatures/) identified in the manuscript.
+
+We also provide some additional [analyses](./analyses/) of Neptune.
+
 ## Legal ##
 -----------
 
@@ -19,5 +26,6 @@ specific language governing permissions and limitations under the License.
 ## Contact ##
 -------------
 
+**Eric Marinier**: eric.marinier@phac-aspc.gc.ca
 **Gary van Domselaar**: gary.vandomselaar@phac-aspc.gc.ca
 
