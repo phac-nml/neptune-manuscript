@@ -27,5 +27,6 @@ specific language governing permissions and limitations under the License.
 -------------
 
 **Eric Marinier**: eric.marinier@phac-aspc.gc.ca
+
 **Gary van Domselaar**: gary.vandomselaar@phac-aspc.gc.ca
 
